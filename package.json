@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node generate_resumes.js",
+    "start": "node generate_resumes.js"
   },
   "keywords": [],
   "author": "Mukti Gupta",
