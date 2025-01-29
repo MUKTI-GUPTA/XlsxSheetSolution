@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node generate_resumes.js",
   },
   "keywords": [],
-  "author": "",
+  "author": "Mukti Gupta",
   "license": "ISC",
   "dependencies": {
     "exceljs": "^4.4.0",
