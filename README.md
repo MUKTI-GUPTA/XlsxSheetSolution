@@ -21,6 +21,6 @@ This **saves time, reduces errors, and ensures uniformity**, making onboarding *
 1. npm install
 2. add the xlsx sheet and lisnk there address
 3. run - node generate_resumes.js
- the resulltant pdf will be added on resume folder
+4. the resulltant pdf will be added on resume folder
 
 - happy coding </>
