@@ -55,7 +55,12 @@ async function generateResumes() {
         console.log(`Generated resume for: ${student.name}`);
     }
 
-    console.log("All resumes generated successfully!");
+    console.log("All resumes generated successfully!" );
+    console.log("Check the 'resumes' folder for the generated resumes.");
+    console.log("Mukti Gupta </>");
+    
+    
+
 }
 
 // Run the script
