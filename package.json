@@ -1,0 +1,19 @@
+{
+  "name": "xlsheetproblem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "fs-extra": "^11.3.0",
+    "handlebars": "^4.7.8",
+    "puppeteer": "^24.1.1",
+    "xlsheetproblem": "file:"
+  }
+}
